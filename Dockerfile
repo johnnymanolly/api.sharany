@@ -1,4 +1,4 @@
-FROM node:11.8-slim
+FROM node:11.8
 
 WORKDIR ./
 
